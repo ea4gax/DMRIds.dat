@@ -2,7 +2,7 @@ Entramos al direcctorio donde tenemos el DMRIds.dat:
 cd /usr/local/etc/
 
 Bajamos el fichero:
-git clone https://github.com/ea4gax/DMRIds.dat.git
+git clone https://github.com/ea4gax/DMRIds2.dat.git
 
 Le damos permisos:
 rpi-rw
