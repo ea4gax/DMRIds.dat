@@ -1,8 +1,8 @@
-Entramos al direcctorio donde tenemos el DMRIds.dat:
+Entramos al direcctorio donde tenemos el DMRIds.dat: <br>
 cd /usr/local/etc/ <br>
 Nos ponemos en modo escritura: rpi-rw <br>
 
-Bajamos la carpeta:
+Bajamos la carpeta: <br>
 sudo git clone https://github.com/ea4gax/DMRIds2.git <br>
 Nos bajará una carpeta llamada DMRIds2. <br>
 
