@@ -6,7 +6,7 @@ Bajamos la carpeta: <br>
 sudo git clone https://github.com/ea4gax/DMRIds2.git <br>
 Nos bajará una carpeta llamada DMRIds2. <br>
 
-Borramnos el fichero README.md ya que no nos hará falta: <br>
+Borramos el fichero README.md ya que no nos hará falta: <br>
 sudo chmod 777 /usr/local/etc/DMRIds2/README.md <br>
 sudo rm -r /usr/local/etc/DMRIds2/README.md <br>
 
