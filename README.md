@@ -4,7 +4,7 @@ Nos ponemos en modo escritura:
 rpi-rw
 
 Bajamos el fichero:
-sudo git clone https://github.com/ea4gax/DMRIds2git
+sudo git clone https://github.com/ea4gax/DMRIds2.git
 Nos bajar una carpeta llamada DMRIds2
 Cambiaremos la ruta del fichero en la configuración del ini entrando en modo expert. Pinchamos en MMDVMHost y vamos al apartado
 DMR Id Lookup y le pondremos esta ruta: /usr/local/etc/DMRIds2/DMRIds2.dat
